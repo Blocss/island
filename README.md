@@ -12,11 +12,16 @@ Read more about [Blocss](https://blocss.github.io/blocss).
 
 ## Available classes
 
+* `.island` - The core component class
+* `.continent` - Slightly larger island
+* `.islet` - Slightly smaller island
 
 ## Usage
 
 ```html
-
+<div class="[island|continent|islet]">
+    I am boxed off.
+</div>
 ```
 
 ## Browser support
