@@ -1,4 +1,4 @@
-# Blocss Island – v0.0.1
+# Blocss Island – v1.0.0
 
 A [Blocss](https://github.com/Blocss/blocss/) component to box off content.
 
