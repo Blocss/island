@@ -1,4 +1,6 @@
-# Blocss Island – v1.0.0
+# Blocss Island – v1.0.0 - Deprecated
+
+**This module is no longer compatible with: ([https://github.com/Blocss/blocss](https://github.com/Blocss/blocss))**
 
 A [Blocss](https://github.com/Blocss/blocss/) component to box off content.
 
